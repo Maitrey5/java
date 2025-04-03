@@ -1,0 +1,11 @@
+client\realclient.class
+com\springcore\exammovietheaterp\JakartaRestConfiguration.class
+entity\Theatermaster.class
+servlets\simpleservlet$2.class
+com\springcore\exammovietheaterp\resources\JakartaEE10Resource.class
+rest\RestResource.class
+ejb\ejbtheater.class
+ejb\ejbtheaterLocal.class
+servlets\simpleservlet.class
+entity\Moviemaster.class
+servlets\simpleservlet$1.class
